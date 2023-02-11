@@ -3,11 +3,11 @@
 # 镜像
 ## 官方
 ```
-nikyotensai/demo:spring-boot-demo-20221004
+nikyotensai/demo:spring-boot-demo-20230211
 ```
 ## 阿里云
 ```
-registry.cn-hangzhou.aliyuncs.com/nikyotensai/demo:spring-boot-demo-20221004
+registry.cn-hangzhou.aliyuncs.com/nikyotensai/demo:spring-boot-demo-20230211
 ```
 
 
